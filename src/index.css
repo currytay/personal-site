@@ -27,9 +27,6 @@ input:focus {
 a:visited {
   color: inherit;
 }
-a {
-  text-decoration: none;
-}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
