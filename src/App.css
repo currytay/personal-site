@@ -30,10 +30,6 @@
   font-size: .875rem;
 }
 
-.link-container {
-
-}
-
 .link-list {
   margin: 0;
   padding: 0;
@@ -51,6 +47,7 @@
 .link {
   margin: 0;
   font-size: .875rem;
+  color: #171717;
 }
 
 .link:hover {
