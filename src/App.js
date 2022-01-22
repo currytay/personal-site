@@ -74,8 +74,7 @@ const App = () => {
       </div>
       <div className='text-container'>
         <p className='body-text'>
-          Currently working on big projects at <a href='https://accenture.com/' target='_blank' rel='noreferrer' className='link'>Accenture</a>
-          and shipping a few small ones of my own: <a href='https://herebeforeamillion.com/' target='_blank' rel='noreferrer' className='link'>Here Before A Million</a> and <a href='https://peggy.world/' target='_blank' rel='noreferrer' className='link'>Peggy</a>.
+          Currently working on big projects at <a href='https://accenture.com/' target='_blank' rel='noreferrer' className='link'>Accenture</a> and a few small ones of my own: <a href='https://herebeforeamillion.com/' target='_blank' rel='noreferrer' className='link'>Here Before A Million</a> and <a href='https://peggy.world/' target='_blank' rel='noreferrer' className='link'>Peggy</a>.
         </p>
       </div>
       <div className='link-container'>
