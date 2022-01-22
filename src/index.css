@@ -10,7 +10,7 @@ body {
   /* -webkit-font-smoothing: antialiased; */
   -moz-osx-font-smoothing: grayscale;
   color: #171717;
-  font-weight: 500;
+  font-weight: 400;
   background-color: #FFFFFF;
   /* background-image: radial-gradient(#999 5%, transparent 0);
   background-size: 24px 24px; */
@@ -33,4 +33,4 @@ code {
     monospace;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
